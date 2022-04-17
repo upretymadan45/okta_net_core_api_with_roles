@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTrackerApi", "FoodTrackerApi\FoodTrackerApi.csproj", "{9EF36256-5576-4E3E-82CC-BC015189D341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF36256-5576-4E3E-82CC-BC015189D341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF36256-5576-4E3E-82CC-BC015189D341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF36256-5576-4E3E-82CC-BC015189D341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF36256-5576-4E3E-82CC-BC015189D341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CA66252-C6CA-4B98-A62D-1655F1810D60}
+	EndGlobalSection
+EndGlobal

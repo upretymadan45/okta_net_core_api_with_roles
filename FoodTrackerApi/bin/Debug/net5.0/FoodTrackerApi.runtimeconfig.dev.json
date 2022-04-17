@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\msquare\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\msquare\\.nuget\\packages"
+    ]
+  }
+}
